@@ -1,0 +1,7 @@
+1)
+ notes-app git:(master) ✗ node inspect notes.js add --title="Another" --body="Another body"
+ 2) go to the chrome browser
+ chrome://inspect/#devices
+ 3) click inspect
+ 4) add folder on the leftside
+ 
