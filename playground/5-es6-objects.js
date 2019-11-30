@@ -13,4 +13,7 @@ const product = {
 // const transaction = (type, {label, stock}) => {
 //     console.log(type, label, stock);
 // }
+// const transaction = (type, {label, stock=0} = {}) => { //={} if param is not passed
+//     console.log(type, label, stock);
+// }
 // transaction("order", product);
